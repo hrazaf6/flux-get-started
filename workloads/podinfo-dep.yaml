@@ -58,7 +58,7 @@ spec:
             port: 9898
         resources:
           limits:
-            cpu: 1000m
+            cpu: 100m
             memory: 128Mi
           requests:
             cpu: 10m
